@@ -4,8 +4,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "org.anudinadamanna.app"
-        version   = "1.0.5"
-		android-versionCode="10005">
+        version   = "1"
+		android-versionCode="10000">
   <name>Spiritual Stories Kannada</name>
     <description>
              ಅನುದಿನದ ಮನ್ನ | ಕನ್ನಡ 
